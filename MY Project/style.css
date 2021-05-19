@@ -1,0 +1,56 @@
+* {
+  margin: 0%;
+  
+}
+body {
+ background-image: url(./images/sss\ cover.jpg);
+ background-size: contain;
+ background-repeat: no-repeat;
+ width: 100vw;
+ height: 100vh;
+}
+
+
+.navbar {
+  background-color:#c50000;
+  font-size: 1.6rem;
+  
+  
+  
+}
+
+.navbar ul{
+  list-style-type: none;
+  display: flex;
+  
+  
+
+}
+
+.navbar ul a:hover {
+
+  color: rgb(17, 1, 105);
+}
+
+.navbar a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  padding: 6rem;
+  
+  
+  
+}
+
+
+
+
+h1 {
+  text-align: center;
+  text-shadow: 1px 1px 5px rgb(158, 103, 48); 
+  margin-top: 30%;
+}
+h4 {
+  text-align: center;
+  margin-top: 03%;
+}
+

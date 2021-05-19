@@ -1,0 +1,49 @@
+*{
+  margin: 0%;
+}
+body {background-image: url(./images/earth.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+ }
+
+.navbar {
+  background-color: #c50000;
+  font-size: 1.6rem;
+  
+  
+}
+
+.navbar ul{
+  list-style-type: none;
+  display: flex;
+}
+
+.navbar a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  padding: 6rem;
+  
+}
+
+.navbar ul a:hover {
+
+  color: rgb(17, 1, 105);
+}
+
+figure img {
+  
+  border: 5px;
+  border-style: groove;
+  border-color: rgb(247, 247, 252);
+  margin-bottom: 0.3rem;
+  margin-right: 0.5rem;
+  
+  position: relative; left: 110px; top: 15px;
+  
+  
+  
+  
+  
+}
+
